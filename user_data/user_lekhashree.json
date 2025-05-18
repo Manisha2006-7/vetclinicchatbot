@@ -1,0 +1,14 @@
+[
+  {
+    "role": "bot",
+    "content": "Welcome back, lekhashree! Ask me about appointments, pet adoption events, post-visit care or chat for emotional support."
+  },
+  {
+    "role": "user",
+    "content": "book an appointment"
+  },
+  {
+    "role": "bot",
+    "content": "I can't book appointments directly for you, but I can guide you through the process. Please provide more details about the type of appointment you're looking to schedule, such as:\n\n- The service you need (medical, beauty, consultation, etc.)\n- The location or provider you'd like to visit\n- Your preferred date and time\n\nWith that information, I can help you figure out how to set it up!"
+  }
+]
